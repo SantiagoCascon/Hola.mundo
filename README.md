@@ -1,2 +1,5 @@
-# Hola.mundo
-Clase 3 Metodología Investigación 
+# Hola Mundo
+
+Mi primer repositorio en GitHub
+
+Me gusta :Futbol, :asado, :perros 
